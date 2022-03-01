@@ -1,0 +1,68 @@
+[{
+
+  "id": "1",
+  "name": "Chicken Chester",
+  "avater": "chicken",
+  "content": "Menu 22 has 6 sandwiches, any of them sandwiches for 22 EGP only",
+  "role": "Seller",
+  "date": "2 days ago",
+  "likescount": "32K",
+  "commentcount": "852",
+  "sharescount": "12.2K",
+  "media": ["img1"],
+  "share": null ,
+  "comments": [{
+                 "name": "Mahmoud",
+                 "avater": "user",
+                 "comment": "yes yes yes",
+                 "likescount": "2",
+                 "date": "1h"
+                }]
+},
+{
+
+  "id": "2",
+  "name": "Rayna Rosser",
+  "avater": "che",
+  "content": "ss sdc Menu 22 has 6 sandwiches, any of them sandwiches for 22 EGP only",
+  "role": "Verified Buyer",
+  "date": "2 days ago",
+  "likescount": "450",
+  "commentcount": "852",
+  "sharescount": "12.2K",
+  "media": null ,
+  "share": {
+              "name": "Mcdonald's",
+              "thumbnail": "mac",
+              "content": "che buy 2 get 2, buy 2 get 2 buy 2 get 2 buy 2 get 2cc",
+              "media": ["img1" , "img2" , "img3"]
+  },
+  "comments": []
+},
+{
+
+  "id": "3",
+  "name": "Skylarani Arcand",
+  "avater": "che",
+  "content": "Menu 22 has 6 sandwiches, any of them sandwiches for 22 EGP only",
+  "role": "Buyer",
+  "date": "2 days ago",
+  "likescount": "450",
+  "commentcount": "852",
+  "sharescount": "12.2K",
+  "media": [],
+  "share": {
+              "name": "Rayana Rhiel Madsen",
+              "thumbnail": "chbbnbnbe",
+               "date": "2 days ago",
+              "content": "che buy 2 get 2che buy 2 get 2che buy 2 get 2che buy 2 get 2",
+              "share": {
+                        "name": "Chicken Chester",
+                        "thumbnail": "chbbnbnbe",
+                        "media": ["img1"],
+                        "content": " Menu 22 has 6 sandwiches, any of them sandwiches for 22 EGP only"
+              }
+           },
+  "comments": []
+}
+]
