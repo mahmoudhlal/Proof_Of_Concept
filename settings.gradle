@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "Proof Of Concept"
 include ':app'
 include ':domain'
+include ':data'
