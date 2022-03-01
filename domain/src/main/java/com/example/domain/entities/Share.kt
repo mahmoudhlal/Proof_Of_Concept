@@ -6,5 +6,5 @@ data class Share(
    val date: String,
    val content: String,
    val media: List<String>,
-   val share: Share
+   val share: ShareX?
 )

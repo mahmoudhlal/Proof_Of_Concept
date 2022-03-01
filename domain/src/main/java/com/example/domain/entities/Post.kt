@@ -11,6 +11,6 @@ data class Post(
    val commentCount: String,
    val sharesCount: String,
    val media: List<String>,
-   val share: Share ,
-   val comments:Comment
+   val share: Share? ,
+   val comments:List<Comment>?
 )
