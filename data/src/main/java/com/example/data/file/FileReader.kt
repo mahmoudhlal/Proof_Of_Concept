@@ -1,10 +1,12 @@
 package com.example.data.file
 
 import android.content.Context
+import com.google.gson.Gson
 import java.io.BufferedReader
 import java.io.InputStreamReader
+import java.lang.reflect.Type
 
-class FileReader (val context: Context) {
+class FileReader (private val context: Context) {
 
 
     fun <T> getAs(filename: String, type: Type): T {
